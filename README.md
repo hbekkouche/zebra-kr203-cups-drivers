@@ -1,6 +1,6 @@
 # Printer Install
 
-### Building and Installing Zebra 2030 TPP Printer Drivers on the Raspberry PI
+### Building and Installing Zebra kr230 Printer Drivers on the Raspberry PI
 ```
 sudo apt-get install build-essential git gcc cups
 ```
